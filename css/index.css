@@ -1,0 +1,40 @@
+body {
+  background-image: url(../images/pink.jpg);
+  background-repeat: repeat-y;
+  background-color:pink;
+  background-attachment: scroll;
+  background-size:cover;
+}
+.sidebar {
+  float:left;
+  clear:left;
+  width:10%;
+}
+p {
+  font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+  font-family: monospace;
+}
+.column {
+  float:left;
+}
+#list {
+  font:italic;
+  font-family: sans-serif;
+}
+img {
+  text-align: center;
+}
+#stories {
+  font:italic;
+  font-weight:bold;
+  font-size: 20px;
+}
+.footer{ 
+  position: fixed;     
+  text-align: center;    
+  bottom: 0px; 
+  width: 100%;
+  font-size: smaller;
+}

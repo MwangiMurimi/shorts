@@ -1,0 +1,26 @@
+body {
+  background-image: url(../images/pink.jpg);
+  background-repeat: repeat-y;
+  background-color:pink;
+  background-attachment: scroll;
+  background-size:cover;
+}
+span {
+  font-weight:bold;
+}
+img {
+  float:left;
+}
+img {
+  clear:left;
+}
+.author {
+  text-align: right;
+}
+.footer{ 
+  position: fixed;     
+  text-align: center;    
+  bottom: 0px; 
+  width: 100%;
+  font-size: smaller;
+}
